@@ -1,4 +1,4 @@
-![logo](https://github.com/arshad0912/githubprofile/blob/main/1701493374114.jpg)
+![logo](https://github.com/arshad0912/arshad0912/blob/main/Linkedin%20Banner.jpg)
 <h1 align="center">Hi 👋, I'm MohammadArshad</h1>
 <h3 align="center">A passionate Data Enthusiastic from India</h3>
 
