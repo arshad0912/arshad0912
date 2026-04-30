@@ -1,6 +1,6 @@
 ![logo](https://github.com/arshad0912/arshad0912/blob/main/Linkedin%20Banner.jpg)
 <h1 align="center">Hi 👋, I'm MohammadArshad</h1>
-<h3 align="center">A passionate AI Enthusiast from India</h3>
+<h3 align="center">A passionate AI Enthusiast in USA</h3>
 
 <img align="right" alt="coding" width="400" src="https://github.com/arshad0912/arshad0912/blob/main/Animated%20Coding.gif">
 
